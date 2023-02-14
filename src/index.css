@@ -1,0 +1,23 @@
+.form-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgb(94, 124, 125);
+  background: linear-gradient(
+    90deg,
+    rgba(94, 124, 125, 1) 0%,
+    rgba(21, 85, 139, 1) 49%
+  );
+}
+
+.form-serie {
+  width: 500px;
+  height: 50vh;
+  border: 1px solid #ccc;
+  padding: 2rem;
+  background-color: white;
+  box-shadow: -6px 10px 36px -2px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -6px 10px 36px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -6px 10px 36px -2px rgba(0, 0, 0, 0.75);
+}
